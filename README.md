@@ -43,7 +43,7 @@ Ensure you have Python installed on your system. You’ll also need the followin
 1. Launch the dashboard using this command:
 
     ```bash
-    streamlit run your_app.py
+    streamlit run hotel_analysis_dashboard.py
     ```
 2. The dashboard will open in your default web browser. If it doesn’t, you can manually navigate to the URL displayed in the terminal.
 
