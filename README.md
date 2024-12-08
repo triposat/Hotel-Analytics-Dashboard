@@ -17,10 +17,6 @@ This project involves building an interactive dashboard for analyzing hotel data
 - **Pandas**: For efficient data manipulation and analysis.
 - **Plotly Express**: To create dynamic, interactive plots.
 
-## Preview
-
-![Dashboard Animation](https://prod-files-secure.s3.us-west-2.amazonaws.com/63b6fe41-a503-4e50-9b1e-caa1e011ae25/3b30a8ff-3eab-4e91-9d90-fb47393a4f4b/scrape-google-maps-with-crawlee-screenshot-hotel-analysis-dashboard.gif)
-
 ## Getting Started
 
 Follow these steps to run the dashboard on your local machine.
@@ -53,4 +49,5 @@ Ensure you have Python installed on your system. You’ll also need the followin
 
 ### Example Output
 Here’s how the dashboard will look in action:
+
 <img width="700" alt="scrape-google-maps-with-crawlee-screenshot-streamlit-dashboard" src="https://github.com/user-attachments/assets/d5f7af02-27fe-496c-b9d4-7b2e00402165">
